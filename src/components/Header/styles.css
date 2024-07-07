@@ -1,0 +1,10 @@
+.container-btn {
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+    margin: 2rem;
+}
+
+.btn-second {
+    margin-left: 1rem;
+}
